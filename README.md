@@ -1,4 +1,4 @@
-# Pertemuan 10 String dan Pengolahan Teks[cite: 28]
+# Pertemuan 10 String dan Pengolahan Teks
 
 Nama: Sheila Ni'matul Hasanah
 NIM: 2225250138
